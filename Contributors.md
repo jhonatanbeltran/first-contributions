@@ -1,6 +1,6 @@
 ﻿# Contributors
-- [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
-- [Eirik Fladmark](https://github.com/Fladmark) 
+- [sheetal dadhewal](https://github.com/sheetal-dadhewal)
+- [Eirik Fladmark](https://github.com/Fladmark)
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Pavan Jindam](https://github.com/jindamp)
 - [Sachin Kumar 🚀:octocat:](https://github.com/sachin-101)
@@ -11,12 +11,12 @@
 - [Vikash Kumar](https://github.com/iit2018110)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Marcelo P. Farjalla](https://github.com/mafarja)
-- [Marisa] (https://github.com/marisawadsworth) 
+- [Marisa] (https://github.com/marisawadsworth)
 - [Matheus Del Claro](https://github.com/mdelclaro)
 - [Ambesh Shekhar](https://github.com/AmbiTyga)
 - [Matheus Duarte](https://github.com/MatheusPush)
 - [Rafael Massoni](https://github.com/RafaelMassoniSS)
-- [Sampath Kumar Bidre](https://github.com/bidresam) 
+- [Sampath Kumar Bidre](https://github.com/bidresam)
 - [Yash Goyal](https://github.com/yash-iiith)
 - [Mohammed Ashiq](https://github.com/ashiquemukkil)
 - [Daniel C](https://github.com/DCorneal "Daniel C's GitHub")
@@ -36,7 +36,7 @@
 - [Aman Saini] (https://github.com/Amansaini7)
 - [Divyam Jain](https://github.com/DivyamJain0)
 - [Lyth Brown] (https://github.com/Lyth-B)
-- [Samya] 
+- [Samya]
 - [Im lohith](https://github.com/Imlohith)
 - [Nandakrishna](https://github.com/nandakrishna75)
 - [Jadson Santos](https://github.com/Jadson1197)
@@ -1393,7 +1393,7 @@ Nishtha3512
 - [Cristina Draghici](https://github.com/krystal25)
 - [Hanna Calra ](https://github.com/calra123)
 - [Abhishek Pratap Singh] (https://github.com/prime-5)
-- [Gaida Escobar] (https://github.com/gescobar129) 
+- [Gaida Escobar] (https://github.com/gescobar129)
 - [Francois Beyers](https://github.com/blusoup)
 Kebana Modise
 - [François Gélinas](https://github.com/fgelinas)
@@ -1688,7 +1688,7 @@ Kebana Modise
 - [Bryan Dorman](https://github.com/bofvader)
 - Brian
 - Deepak Daroshi
-- Uma 
+- Uma
 - Gwennie Kidd
 - BeldCode
 - [Hamzeh Darwish](https://github.com/hamzehd)
@@ -8447,6 +8447,7 @@ Aman Panjwani
 - [Pankaj Kumar Gautam](https://github.com/kd098)
 - [Abhinav Mathur](https://github.com/597abhinav)
 - [Ritwik Raj Srivastava](https://github.com/ritwik787)
+- [Juan Andres Fuentes](https://github.com/Juanandresfl)
 - [Manish Sharma](https://github.com/iammangod96)
 - [fromMaybe](https://github.com/fromMaybe)
 - [Muaaz Bin Sarfaraz](https://github.com/MuaazBin)
